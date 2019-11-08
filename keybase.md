@@ -19,13 +19,13 @@ To claim this, I am signing this object:
       "username": "serwer20"
     },
     "merkle_root": {
-      "ctime": 1573210691,
-      "hash": "262d3c5be093eefdd0bf9e9d9784c68e541660df9fc17824d7826ea6ab5a7e94924a3efde350adf026d395a0f396cfd018a71d53e154966f8042d7f8c7d24f74",
-      "hash_meta": "637355791ceda18d0e1bc666981b731056501f64dc9568ebcb26646c0ad0940c",
-      "seqno": 8939789
+      "ctime": 1573211829,
+      "hash": "a05c024ffff90e37d4633a719427e31f943156d9e9bf562b76676065aeb6b344b238e267cd82b8f6d60d3e621d71a049ee311c9d1acff1d8f57e1fca98f85f6f",
+      "hash_meta": "0ea37b07cf453eb031013ef06afd1cb98eddd2124ed20610698c8ccf03a57cd6",
+      "seqno": 8940818
     },
     "service": {
-      "entropy": "S2lCoSKbwEcjX1nRTC6MjLZy",
+      "entropy": "02QmLBUKXlJCZ5+gNZB34DSt",
       "name": "github",
       "username": "serwer20"
     },
@@ -36,10 +36,10 @@ To claim this, I am signing this object:
     "name": "keybase.io go client",
     "version": "4.7.2"
   },
-  "ctime": 1573210696,
+  "ctime": 1573211829,
   "expire_in": 504576000,
-  "prev": "355df028eeba94b423932831f3a84def6a3f69201db0403f32c53a0bc6e5a7e8",
-  "seqno": 16,
+  "prev": "70bd434ebd0724c2361f8652faebc0efcb8eb979b35b2d7be8aa362259bc9334",
+  "seqno": 18,
   "tag": "signature"
 }
 ```
@@ -47,7 +47,7 @@ To claim this, I am signing this object:
 with the key [ASAaJrGu29bjt1FbINeCIexOo5f0mK83Kc8pqYj8DJtIego](https://keybase.io/serwer20), yielding the signature:
 
 ```
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgGiaxrtvW47dRWyDXgiHsTqOX9JivNynPKamI/AybSHoKp3BheWxvYWTESpcCEMQgNV3wKO66lLQjkygx86hN72o/aSAdsEA/MsU6C8blp+jEIAP1LhQPFcZXMARGR2+Gkb7o/zceh5JA1oBtq4LvqCz0AgHCo3NpZ8RA/URQizpNMkfYiHwt6MdcMsLfjxPZ3dNGGU0F8QIq47A4MfDSSTbffFDpjh5vSrUKges+7aUA/FBvfy8d0L1gAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINvvNNOEui01iCkfrY/H9AaTa4JkmIeWzM4zudpKc9Vgo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgGiaxrtvW47dRWyDXgiHsTqOX9JivNynPKamI/AybSHoKp3BheWxvYWTESpcCEsQgcL1DTr0HJMI2H4ZS+uvA78uOuXmzWy176Ko2Ilm8kzTEIAZGgr7tyFs9WLr9shu9UWbOXqGkTJ29a6pbSyLgZ79AAgHCo3NpZ8RARV6/DUiatdVIsNpwxtMMSr/SzkgiLOY9VA+OC6F2MkW02MG2fc+as3gYSVJuUhaxWcq3itfvL+B5Ge7usVxuAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEMdecle8m0CTH0nMGBXCodmsoudAAmftjIYzGSOkUo+o3RhZ80CAqd2ZXJzaW9uAQ==
 
 ```
 
